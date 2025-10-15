@@ -1,0 +1,15 @@
+{
+  "index": 1,
+  "verse": 3,
+  "duration": 4.3733125,
+  "sample_rate": 16000,
+  "original_path": "ID18V3F.wav",
+  "qalqalah_info": {
+    "qalqala_ahad_v1": -1,
+    "qalqala_samad": -1,
+    "qalqala_yalid": 0,
+    "qalqala_yulad": 1,
+    "qalqala_ahad_v4": -1
+  },
+  "audio_file": "real_audio_extracted/real_sample_001_verse3.wav"
+}

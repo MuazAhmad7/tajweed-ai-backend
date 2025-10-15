@@ -1,0 +1,33 @@
+{
+  "sample_name": "real_sample_001_verse3",
+  "original_metadata": {
+    "index": 1,
+    "verse": 3,
+    "duration": 4.3733125,
+    "sample_rate": 16000,
+    "original_path": "ID18V3F.wav",
+    "qalqalah_info": {
+      "qalqala_ahad_v1": -1,
+      "qalqala_samad": -1,
+      "qalqala_yalid": 0,
+      "qalqala_yulad": 1,
+      "qalqala_ahad_v4": -1
+    },
+    "audio_file": "real_audio_extracted/real_sample_001_verse3.wav"
+  },
+  "method": "refined_acoustic_fallback",
+  "focus_region": [
+    2.3733125,
+    4.3733125
+  ],
+  "detected_qalqalah": [
+    2.4053125,
+    2.8053125
+  ],
+  "extended_segment": [
+    2.3053125,
+    2.9053125
+  ],
+  "duration": 0.6000000000000001,
+  "audio_file": "accurate_qalqalah_results/real_sample_001_verse3_REFINED_qalqalah.wav"
+}

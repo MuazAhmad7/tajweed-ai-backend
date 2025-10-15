@@ -1,0 +1,57 @@
+architecture: gmm-hmm
+features:
+  deltas: true
+  fmllr: true
+  frame_shift: 10
+  lda: false
+  pitch: false
+  splice_left_context: null
+  splice_right_context: null
+  type: mfcc
+  use_energy: false
+phones:
+- C
+- Cl
+- D
+- G
+- H
+- Hq
+- Q
+- S
+- Sl
+- T
+- Z
+- a
+- aI
+- aU
+- al
+- alal
+- b
+- d
+- dl
+- f
+- h
+- i
+- il
+- j
+- k
+- l
+- ll
+- m
+- ml
+- n
+- nl
+- q
+- r
+- rl
+- rr
+- s
+- sl
+- t
+- tl
+- u
+- ul
+- w
+- x
+- z
+version: 2.0.0
